@@ -1,0 +1,23 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Local environment and Telegram runtime state
+.env
+.telegram_offset
+
+# Generated Swift binaries and compiler cache
+bin/
+.cache/
+
+# User screenshots and uploaded images
+uploads/*
+!uploads/.gitkeep
+
+# Generated shopping queues and unavailable item reports
+queues/*.csv
+!queues/.gitkeep
+
+# Local Mac WeChat click calibration
+wechat_click_config.json
+

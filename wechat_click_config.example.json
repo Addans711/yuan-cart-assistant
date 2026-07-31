@@ -1,0 +1,8 @@
+{
+  "back_click": [548, 115],
+  "home_click": [570, 824],
+  "search_click": [727, 192],
+  "add_click": [911, 363],
+  "search_wait": 1.2,
+  "after_add_wait": 0.6
+}
